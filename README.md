@@ -44,7 +44,7 @@ I’m interested in Fullstack development and currently enhancing my skills in m
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/natthapongkamt2/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://gai-protfolio.netlify.app/)
 
-## 📝 Latest Blog Posts
+## 📝 Latest Transaction Broadcasting
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
